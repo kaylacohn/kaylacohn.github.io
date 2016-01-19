@@ -9,7 +9,7 @@
 title: Kayla Cohn Blog
 email: your-email@domain.com
 description: Front-end Development and Design
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: http://kaylacohn.github.io
 twitter_username: kaylacohn_
 github_username:  kaylacohn
 
